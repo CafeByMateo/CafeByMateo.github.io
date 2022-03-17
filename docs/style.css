@@ -1,0 +1,23 @@
+.btn-outline-cafe
+{
+  color: #603601;
+  border-color: #603601;
+}
+.border-cafe
+{
+	border-color: #603601;
+}
+.bg-cafe
+{
+    background-color: rgba(54, 21, 0,1) !important;
+}
+.btn-cafe
+{
+	color: #fff;
+    background-color: #361500;
+    border-color: #361500;
+}
+.text-cafe
+{
+    color: rgba(94, 54, 1,1) !important;
+}
