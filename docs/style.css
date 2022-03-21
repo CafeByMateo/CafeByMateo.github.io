@@ -1,30 +1,45 @@
+a
+{
+    color: #603601;
+    text-decoration: none;
+}
+a:visited
+{
+    color: #361500;
+}
 .btn-outline-cafe
 {
-	color: #603601;
-	border-color: #603601;
+  color: #603601;
+  border-color: #603601;
 }
-
 .border-cafe
 {
 	border-color: #603601;
 }
-
 .bg-cafe
 {
-	background-color: rgba(54, 21, 0,1) !important;
+    background-color: rgba(54, 21, 0,1) !important;
 }
-
 .btn-cafe
 {
-	color: #fff;
-	background-color: #361500;
-	border-color: #361500;
+	color: #fff !important;
+    background-color: #361500;
+    border-color: #361500;
 }
-.btn-caf:hover
+.btn-cafe:hover
 {
-	color:grey;
+	color: grey;
 }
 .text-cafe
 {
-	color: rgba(94, 54, 1,1) !important;
+    color: rgba(94, 54, 1,1) !important;
+}
+.sect-cafe
+{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    margin-bottom: 5vh;
 }
